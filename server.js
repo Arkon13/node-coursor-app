@@ -98,5 +98,5 @@ server.listen(PORT, (err) => {
   if(err) {
     return console.log('error', err)
   }
-  console.log('Сервер запущен на localhost: 3333; нажмите Ctrl + C для завершения')
+  console.log('Server work')
 })
